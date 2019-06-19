@@ -1,0 +1,12 @@
+
+@relation tweets
+
+@attribute message string
+@attribute sentiment {pos,neg}
+
+@data
+'Good job, thanks!',?
+'what a waste of time',?
+'complete crap',?
+'well done',?
+'I should have stayed home watching paint dry',?

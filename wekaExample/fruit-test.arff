@@ -1,0 +1,15 @@
+%    Attribute Information:
+%    1. color 1 - red 2 - green 3 yellow 4 orange
+%    2. size in inch
+%    3. class apple,orange, banana
+
+@RELATION fruit
+
+@ATTRIBUTE color	NUMERIC
+@ATTRIBUTE size 	NUMERIC
+@ATTRIBUTE class 	{apple,orange,banana}
+
+@DATA
+
+3,4,?
+2,3,?

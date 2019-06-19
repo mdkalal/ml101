@@ -1,0 +1,22 @@
+.textInputArea {
+	padding-left: 5px;
+	font-size: 14px;
+	background-color: #FFFF99;
+	color: blue;
+	resize: none;
+}
+.aSubmitButton {
+	cursor: pointer;
+	width: 12em;  
+	height: 3em;
+	margin-top: 20px;
+	background: #016ABC;
+	color: white;
+	background-color: #1b8437;
+	border: 2px solid black;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow:none;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
