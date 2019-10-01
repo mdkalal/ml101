@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Presentation Feedback";
+}
+
+<script type="text/javascript" language="javascript">
+    function CheckSentiment(string) {
+
+        $.post("/Home/CheckSentiment", { pValue: string }, function (data) {
+
+            document.getElementById("comments").innerHTML = nme.value + " - " + data + " <br />" + document.getElementById("comments").innerHTML;
+            nme.value = "";
+            cmmt.value = "";
+        });  
+    }
+
+</script>
+
+
+
+<div class="text-center">
+    <!--
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+        <p id="comments"> </p>
+        -->
+
+
+    <p>What did you think of Mark's presentation?</p>
+    <form>
+        <input id="nme" type="text" name="fname" placeholder="Name">
+        <input id="cmmt" type="text" name="fcomment" placeholder="Comment" size="50">
+        <input type="button" value="Add Comment" onclick="CheckSentiment(cmmt.value);">
+    </form>
+
+    <p></p>
+    <p>Comments:  </p>
+    <!--  Empty paragraph to show the urls injected by the CheckSentiment function  -->
+    <p id="comments"> </p>
+
+</div>
