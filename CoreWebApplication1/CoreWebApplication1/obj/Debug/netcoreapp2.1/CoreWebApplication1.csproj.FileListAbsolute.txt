@@ -1,0 +1,14 @@
+C:\dev\projects\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.csprojAssemblyReference.cache
+C:\dev\projects\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.csproj.CoreCompileInputs.cache
+C:\dev\projects\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.RazorAssemblyInfo.cache
+C:\dev\projects\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.RazorAssemblyInfo.cs
+C:\dev\projects\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.AssemblyInfoInputs.cache
+C:\dev\projects\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.AssemblyInfo.cs
+C:\dev\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.csprojAssemblyReference.cache
+C:\dev\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.csproj.CoreCompileInputs.cache
+C:\dev\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.RazorAssemblyInfo.cache
+C:\dev\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.RazorAssemblyInfo.cs
+C:\dev\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.AssemblyInfoInputs.cache
+C:\dev\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.AssemblyInfo.cs
+C:\dev\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.dll
+C:\dev\CoreWebApplication1\CoreWebApplication1\obj\Debug\netcoreapp2.1\CoreWebApplication1.pdb
