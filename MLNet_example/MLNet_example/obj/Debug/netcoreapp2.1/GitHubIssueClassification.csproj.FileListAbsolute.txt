@@ -1,0 +1,13 @@
+C:\dev\issue_classification\GitHubIssueClassification\bin\Debug\netcoreapp2.1\Data\issues_test.tsv
+C:\dev\issue_classification\GitHubIssueClassification\bin\Debug\netcoreapp2.1\Data\issues_train.tsv
+C:\dev\issue_classification\GitHubIssueClassification\bin\Debug\netcoreapp2.1\GitHubIssueClassification.deps.json
+C:\dev\issue_classification\GitHubIssueClassification\bin\Debug\netcoreapp2.1\GitHubIssueClassification.runtimeconfig.json
+C:\dev\issue_classification\GitHubIssueClassification\bin\Debug\netcoreapp2.1\GitHubIssueClassification.runtimeconfig.dev.json
+C:\dev\issue_classification\GitHubIssueClassification\bin\Debug\netcoreapp2.1\GitHubIssueClassification.dll
+C:\dev\issue_classification\GitHubIssueClassification\bin\Debug\netcoreapp2.1\GitHubIssueClassification.pdb
+C:\dev\issue_classification\GitHubIssueClassification\obj\Debug\netcoreapp2.1\GitHubIssueClassification.csproj.CoreCompileInputs.cache
+C:\dev\issue_classification\GitHubIssueClassification\obj\Debug\netcoreapp2.1\GitHubIssueClassification.AssemblyInfoInputs.cache
+C:\dev\issue_classification\GitHubIssueClassification\obj\Debug\netcoreapp2.1\GitHubIssueClassification.AssemblyInfo.cs
+C:\dev\issue_classification\GitHubIssueClassification\obj\Debug\netcoreapp2.1\GitHubIssueClassification.dll
+C:\dev\issue_classification\GitHubIssueClassification\obj\Debug\netcoreapp2.1\GitHubIssueClassification.pdb
+C:\dev\issue_classification\GitHubIssueClassification\obj\Debug\netcoreapp2.1\GitHubIssueClassification.csprojAssemblyReference.cache
