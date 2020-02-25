@@ -1,0 +1,11 @@
+C:\dev\projects\myMLApp\myMLApp\bin\Debug\netcoreapp2.2\myMLApp.deps.json
+C:\dev\projects\myMLApp\myMLApp\bin\Debug\netcoreapp2.2\myMLApp.runtimeconfig.json
+C:\dev\projects\myMLApp\myMLApp\bin\Debug\netcoreapp2.2\myMLApp.runtimeconfig.dev.json
+C:\dev\projects\myMLApp\myMLApp\bin\Debug\netcoreapp2.2\myMLApp.dll
+C:\dev\projects\myMLApp\myMLApp\bin\Debug\netcoreapp2.2\myMLApp.pdb
+C:\dev\projects\myMLApp\myMLApp\obj\Debug\netcoreapp2.2\myMLApp.csprojAssemblyReference.cache
+C:\dev\projects\myMLApp\myMLApp\obj\Debug\netcoreapp2.2\myMLApp.csproj.CoreCompileInputs.cache
+C:\dev\projects\myMLApp\myMLApp\obj\Debug\netcoreapp2.2\myMLApp.AssemblyInfoInputs.cache
+C:\dev\projects\myMLApp\myMLApp\obj\Debug\netcoreapp2.2\myMLApp.AssemblyInfo.cs
+C:\dev\projects\myMLApp\myMLApp\obj\Debug\netcoreapp2.2\myMLApp.dll
+C:\dev\projects\myMLApp\myMLApp\obj\Debug\netcoreapp2.2\myMLApp.pdb
