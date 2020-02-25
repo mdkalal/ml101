@@ -23,6 +23,8 @@ DemoML - demo sentiment analysis, in Java
 
 MLNet example - Classification and Regression examples, in c#
 
+Model - ML model used by CoreWebApplication1 - sentiment analysis demo
+
 Data - examples of Weka ready data files
 
 WekaExample  - Classification and Regression examples, in Java
